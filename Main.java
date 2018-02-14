@@ -16,7 +16,8 @@ public class Main {
          *0x10000000
          *0xFFFFFFFF
          */
-        //Git comment change
+        //LAB5n COMMENT CHANGE WOO
+
         Scanner scnr = new Scanner(System.in);
         String hex;
         long decimal = 0, place;
